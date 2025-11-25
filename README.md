@@ -17,3 +17,26 @@
 [![](https://visitcount.itsvg.in/api?id=leychemorph&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1 align="center">Hi 👋, I'm leychemorph</h1>
+
+<p align="center">
+  <img src="https://files.catbox.moe/xrhyu4.gif" width="400" alt="Animasi dari videoku"/>
+</p>
+
+<p align="center">
+  <b>Selamat datang di profil GitHub saya!</b><br>
+  Di sini kamu bisa lihat berbagai proyek dan eksperimen saya.
+</p>
+
+---
+
+💬 **Kontak:** leychemorph@gmail.com  
+🌍 **Lokasi:** Indonesia  
+🚀 **Tentang saya:** Software Developer & Enthusiast
+
+---
+
+<p align="center">
+  <a href="https://twitter.com/leychemorph">Twitter</a> •
+  <a href="https://linkedin.com/in/leychemorph">LinkedIn</a>
+</p>
