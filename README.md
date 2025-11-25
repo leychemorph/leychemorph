@@ -1,6 +1,78 @@
-<p align="center">
-  <img src="LINK_GIF_KAMU" width="100%" />
-</p>
+<div align="center">
+  <style>
+    .glitch {
+      font-size: 50px;
+      font-weight: bold;
+      color: #00eaff;
+      position: relative;
+      font-family: monospace;
+      animation: neonPulse 2s infinite ease-in-out;
+      letter-spacing: 3px;
+      margin-bottom: 30px;
+    }
+
+    /* Neon glow pulse */
+    @keyframes neonPulse {
+      0%, 100% {
+        text-shadow:
+          0 0 6px #00eaff,
+          0 0 12px #00eaff,
+          0 0 24px #00eaff,
+          0 0 48px #00eaff;
+      }
+      50% {
+        text-shadow:
+          0 0 10px #00c6ff,
+          0 0 20px #00c6ff,
+          0 0 40px #00c6ff,
+          0 0 80px #00c6ff;
+      }
+    }
+
+    /* Glitch layers */
+    .glitch:before,
+    .glitch:after {
+      content: "leychemorph";
+      position: absolute;
+      left: 0;
+      top: 0;
+      opacity: 0.75;
+    }
+
+    .glitch:before {
+      left: 2px;
+      text-shadow: -2px 0 magenta;
+      animation: glitch1 1.5s infinite linear alternate-reverse;
+    }
+
+    .glitch:after {
+      left: -2px;
+      text-shadow: -2px 0 cyan;
+      animation: glitch2 1.5s infinite linear alternate-reverse;
+    }
+
+    @keyframes glitch1 {
+      0% { clip-path: inset(0 0 80% 0); transform: translate(-3px, -2px); }
+      20% { clip-path: inset(10% 0 60% 0); transform: translate(3px, 2px); }
+      40% { clip-path: inset(20% 0 40% 0); transform: translate(-2px, 1px); }
+      60% { clip-path: inset(40% 0 20% 0); transform: translate(2px, -1px); }
+      80% { clip-path: inset(60% 0 10% 0); transform: translate(-1px, 2px); }
+      100% { clip-path: inset(80% 0 0 0); transform: translate(1px, -2px); }
+    }
+
+    @keyframes glitch2 {
+      0% { clip-path: inset(80% 0 0 0); transform: translate(3px, 1px); }
+      20% { clip-path: inset(60% 0 10% 0); transform: translate(-3px, -1px); }
+      40% { clip-path: inset(40% 0 20% 0); transform: translate(2px, -2px); }
+      60% { clip-path: inset(20% 0 40% 0); transform: translate(-2px, 2px); }
+      80% { clip-path: inset(10% 0 60% 0); transform: translate(1px, -1px); }
+      100% { clip-path: inset(0 0 80% 0); transform: translate(-1px, 1px); }
+    }
+  </style>
+
+  <div class="glitch">leychemorph</div>
+</div>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/leychexeight) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaawhirz) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@leycmorph) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahrulelshuyi@gmail.com) 
