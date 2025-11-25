@@ -1,30 +1,3 @@
-<!-- GitHub Profile README for leychemorph -->
-
-<h1 align="center">
-  <marquee direction="right" scrollamount="15">
-    <span style="font-size: 3em; color: #39ff14;"><b>LEY CHEMORPH</b></span>
-  </marquee>
-</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
-</p>
-
-<h3 align="center">👨‍💻 Passionate Developer | 🚀 Chemistry & Technology Enthusiast</h3>
-<p align="center">
-  <b>Let's Connect!</b><br>
-  <a href="https://twitter.com/leychemorph">Twitter</a> |
-  <a href="https://linkedin.com/in/leychemorph">LinkedIn</a> |
-  <a href="https://github.com/leychemorph">GitHub</a>
-</p>
-
----
-
-### 🔥 My Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leychemorph&show_icons=true&theme=radical" alt="Leychemorph's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leychemorph&theme=radical" alt="Leychemorph's GitHub streak" />
-</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/leychexeight) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaawhirz) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@leycmorph) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahrulelshuyi@gmail.com) 
