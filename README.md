@@ -20,7 +20,7 @@
 <h1 align="center">Hi 👋, I'm leychemorph</h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/xrhyu4.gif" width="400" alt="Animasi dari videoku"/>
+  <img src="https://files.catbox.moe/xrhyu4" width="400" alt="Animasi dari videoku"/>
 </p>
 
 <p align="center">
